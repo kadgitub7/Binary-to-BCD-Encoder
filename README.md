@@ -97,6 +97,13 @@ A = one   | three | five | seven | nine
 These expressions are read directly from the truth table — `D` is the MSB and is only high for 8 and 9; `A` is the LSB and is high for all odd values.
 
 ---
+## Circuit Diagram
+Below is a circuit diagram taken from NESO Academy. This explains the gates simualted using Verilog in more detail
+![Binary BCD Circuit](imageAssets/BinartBCDEncoderCircuit.png)
+
+## Waveform Diagram
+Below is a waveform diagram taken when running the simulation using the files in this project
+![Binary BCD Circuit](imageAssets/BinartBCDEncoderWaveform.png)
 
 ## Verilog Implementation
 
