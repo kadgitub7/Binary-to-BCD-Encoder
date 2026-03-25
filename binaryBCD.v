@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 module binaryBCD(
-    input one,two,three,four,five,six,seven,eight,nine,
+    input zero,one,two,three,four,five,six,seven,eight,nine,
     output D,
     output C,
     output B,
