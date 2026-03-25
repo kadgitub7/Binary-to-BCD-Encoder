@@ -99,7 +99,7 @@ These expressions are read directly from the truth table — `D` is the MSB and 
 ---
 ## Circuit Diagram
 Below is a circuit diagram taken from NESO Academy. This explains the gates simualted using Verilog in more detail
-![Binary BCD Circuit](imageAssets/BinaryBCDEncoderCircuit.png)
+![Binary BCD Circuit](imageAssets/BinacyBCDEncoderCircuit.png)
 
 ## Waveform Diagram
 Below is a waveform diagram taken when running the simulation using the files in this project
